@@ -1,0 +1,22 @@
+2024-11-09 10:26:53,433 - INFO - Data Loading started...... 
+2024-11-09 10:26:53,443 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:26:53,458 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:26:53,458 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:26:53,468 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:26:53,469 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:26:53,478 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:26:53,478 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:26:53,486 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:26:53,486 - INFO - Data Loading completed successfully...... 
+2024-11-09 10:41:45,666 - INFO - Data Extraction started ...... 
+2024-11-09 10:41:46,437 - INFO - Data Extraction completed successfully...... 
+2024-11-09 10:43:20,536 - INFO - Data Extraction started ...... 
+2024-11-09 10:43:21,003 - INFO - Data Extraction completed successfully...... 
+2024-11-09 10:43:21,479 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:43:21,503 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:43:21,504 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:43:21,522 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:43:21,522 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:43:21,546 - INFO - Data loaded into inventory_levels_by_store.
+2024-11-09 10:43:21,546 - INFO - Executing load_inventory_levels_by_store query.
+2024-11-09 10:43:21,564 - INFO - Data loaded into inventory_levels_by_store.
